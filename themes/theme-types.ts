@@ -62,6 +62,8 @@ export interface ColorPalette {
    * Background for the GlobalStyles “Tags attribute” highlight (paired tag / attribute chrome).
    */
   tagAttributeChrome: string;
+
+  activeTabText: string;
 }
 
 /**

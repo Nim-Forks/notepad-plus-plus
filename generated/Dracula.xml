@@ -11,7 +11,7 @@
 <!--
   Style name:   	Dracula
   Author:       	Dracula Theme
-  Date:         	May 28, 2026
+  Date:         	Jun 26, 2026
   License:      	MIT (https://choosealicense.com/licenses/mit/)
   Description:  	A dark theme style based on the Dracula Theme color palette
   Languages:    	Should work with all languages without issue but hasn't been tested on absolutely every one of them.
@@ -1020,7 +1020,7 @@
         <WidgetStyle name="Mark Style 5" styleID="21" bgColor="BD93F9" fontName="" fontSize=""></WidgetStyle>
         <WidgetStyle name="Incremental highlight all" styleID="28" bgColor="353746" fontName="" fontSize=""></WidgetStyle>
         <WidgetStyle name="Active tab unfocused indicator" styleID="0" fgColor="7C8EB2" fontName="" fontSize=""></WidgetStyle>
-        <WidgetStyle name="Active tab text" styleID="0" fgColor="F8F8F2" bgColor="353746" fontName="" fontSize=""></WidgetStyle>
+        <WidgetStyle name="Active tab text" styleID="0" fgColor="282A36" bgColor="353746" fontName="" fontSize=""></WidgetStyle>
         <WidgetStyle name="Inactive tabs" styleID="0" fgColor="F8F8F2" bgColor="282A36" fontName="" fontSize=""></WidgetStyle>
         <WidgetStyle name="Tab color 1" styleID="0" bgColor="F1FA8C" fontName="" fontSize=""></WidgetStyle>
         <WidgetStyle name="Tab color 2" styleID="0" bgColor="FFB86C" fontName="" fontSize=""></WidgetStyle>

@@ -1388,7 +1388,7 @@ export const globalStylesTemplate: GlobalStyleDef[] = [
   { name: "Mark Style 5", styleID: "21", bgColorKey: "purple" },
   { name: "Incremental highlight all", styleID: "28", bgColorKey: "incrementalHighlight" },
   { name: "Active tab unfocused indicator", styleID: "0", fgColorKey: "comment" },
-  { name: "Active tab text", styleID: "0", fgColorKey: "foreground", bgColorKey: "lineHighlight" },
+  { name: "Active tab text", styleID: "0", fgColorKey: "activeTabText", bgColorKey: "lineHighlight" },
   { name: "Inactive tabs", styleID: "0", fgColorKey: "foreground", bgColorKey: "background" },
   { name: "Tab color 1", styleID: "0", bgColorKey: "yellow" },
   { name: "Tab color 2", styleID: "0", bgColorKey: "orange" },

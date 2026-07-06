@@ -41,6 +41,7 @@ export const draculaTheme: ThemeDefinition = {
     markupDelimiter: "56987A",
     markupAttribute: "8BE9FD",
     tagAttributeChrome: "666B8A",
+    activeTabText: "282A36",
   },
   fontName: "Consolas",
   fontSize: "10",
